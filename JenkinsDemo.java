@@ -1,5 +1,7 @@
-public class JenkinsDemo{}
-
-public static main(){
-JenkinsDemo();
+public class JenkinsDemo
+{
+  public static void main(String args[])
+  {
+System.out.println("DEMO");
+}
 }
