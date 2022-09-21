@@ -1,5 +1,5 @@
 public class JenkinsDemo{}
 
-public static void main(){
+public static main(){
 JenkinsDemo();
 }
